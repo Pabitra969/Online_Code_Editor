@@ -34,6 +34,11 @@ Before running this project, ensure that you have the following installed on you
 3. Install the required dependencies using npm:
 
    ```bash
+   npm audit fix
+   npm install --force
+
+4. To generate the package.json
+   ```bash
    npm init
    ```
    press enter until the new command line appears
