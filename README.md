@@ -96,8 +96,7 @@ export default editorConfig;
 
 In the project directory, you can run:
 
-- **`npm start`**: Runs the app in development mode.
-- **`npm run build`**: Builds the app for production.
+- **`nodemon Api.js`**: Runs the app in development mode.
 
 ## Dependencies
 
