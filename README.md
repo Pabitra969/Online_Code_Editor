@@ -31,17 +31,23 @@ Before running this project, ensure that you have the following installed on you
    ```bash
    cd online-code-editor
    ```
-
 3. Install the required dependencies using npm:
 
    ```bash
-   npm install
+   npm init
    ```
+   press enter until the new command line appears
 
-4. Start the development server:
+4. Install the required dependencies using npm:
 
    ```bash
-   npm start
+   npm install express body-parser compilex nodemon
+   ```
+
+5. Start the development server:
+
+   ```bash
+   nodemon Api.js
    ```
 
    The application will be available at `http://localhost:3000`.
