@@ -31,7 +31,7 @@ Before running this project, ensure that you have the following installed on you
    ```bash
    cd online-code-editor
    ```
-3. Install the required dependencies using npm:
+3. To fix the node dependencies using npm:
 
    ```bash
    npm audit fix
